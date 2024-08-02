@@ -1,0 +1,14 @@
+.botao1,
+.botao2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.botao1 {
+    color: white;
+    background-color: #000000;
+}
+
+.botao2 {
+    background-color: #ffff00;
+}
